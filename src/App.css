@@ -24,6 +24,7 @@ label {
 
 input {
     padding: 0.5rem;
+    border: none;
     width: 90%;
     outline: none;
     border: none;
